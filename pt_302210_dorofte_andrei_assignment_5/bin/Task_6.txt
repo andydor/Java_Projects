@@ -1,0 +1,2 @@
+Tasks with duration less than 5 min:
+Snack	

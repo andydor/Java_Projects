@@ -1,0 +1,10 @@
+Total duration of every activity:
+Leaving	 -> 27h 44m
+Breakfast	 -> 2h 58m
+Sleeping -> 131h 3m
+Snack	 -> 0h 6m
+Grooming	 -> 2h 40m
+Showering	 -> 1h 34m
+Spare_Time/TV -> 142h 28m
+Toileting	 -> 2h 20m
+Lunch -> 5h 13m

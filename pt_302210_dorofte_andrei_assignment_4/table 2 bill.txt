@@ -1,0 +1,6 @@
+Order ID: 2
+Order Date: Mon May 11 12:25:11 EEST 2020
+Table: 2
+
+Item 1: apa Price: 5.0
+Total: 5.0

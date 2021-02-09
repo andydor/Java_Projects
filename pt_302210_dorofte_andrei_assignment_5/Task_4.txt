@@ -1,0 +1,140 @@
+Day 332:
+Leaving	 -> 1
+Breakfast	 -> 1
+Sleeping -> 1
+Snack	 -> 1
+Grooming	 -> 2
+Showering	 -> 1
+Spare_Time/TV -> 4
+Toileting	 -> 3
+Lunch -> 1
+
+Day 333:
+Leaving	 -> 1
+Breakfast	 -> 1
+Sleeping -> 1
+Snack	 -> 1
+Grooming	 -> 3
+Showering	 -> 1
+Spare_Time/TV -> 6
+Toileting	 -> 4
+Lunch -> 1
+
+Day 334:
+Leaving	 -> 1
+Breakfast	 -> 1
+Sleeping -> 1
+Snack	 -> 2
+Grooming	 -> 2
+Showering	 -> 1
+Spare_Time/TV -> 8
+Toileting	 -> 6
+Lunch -> 1
+
+Day 335:
+Leaving	 -> 1
+Breakfast	 -> 1
+Sleeping -> 1
+Grooming	 -> 3
+Showering	 -> 1
+Spare_Time/TV -> 6
+Toileting	 -> 2
+Lunch -> 1
+
+Day 336:
+Breakfast	 -> 1
+Sleeping -> 1
+Snack	 -> 1
+Grooming	 -> 4
+Showering	 -> 1
+Spare_Time/TV -> 7
+Toileting	 -> 3
+Lunch -> 1
+
+Day 337:
+Leaving	 -> 1
+Breakfast	 -> 1
+Sleeping -> 1
+Grooming	 -> 3
+Showering	 -> 1
+Spare_Time/TV -> 4
+Toileting	 -> 2
+
+Day 338:
+Leaving	 -> 1
+Breakfast	 -> 1
+Sleeping -> 1
+Snack	 -> 2
+Grooming	 -> 2
+Showering	 -> 1
+Spare_Time/TV -> 6
+Toileting	 -> 4
+
+Day 339:
+Leaving	 -> 2
+Breakfast	 -> 1
+Sleeping -> 1
+Snack	 -> 1
+Grooming	 -> 6
+Showering	 -> 1
+Spare_Time/TV -> 7
+Toileting	 -> 5
+Lunch -> 1
+
+Day 340:
+Breakfast	 -> 1
+Sleeping -> 1
+Snack	 -> 1
+Grooming	 -> 4
+Showering	 -> 1
+Spare_Time/TV -> 5
+Toileting	 -> 3
+Lunch -> 1
+
+Day 341:
+Leaving	 -> 1
+Breakfast	 -> 1
+Sleeping -> 1
+Snack	 -> 2
+Grooming	 -> 5
+Showering	 -> 1
+Spare_Time/TV -> 8
+Toileting	 -> 6
+Lunch -> 1
+
+Day 342:
+Leaving	 -> 1
+Breakfast	 -> 1
+Sleeping -> 1
+Grooming	 -> 5
+Showering	 -> 1
+Spare_Time/TV -> 4
+Toileting	 -> 1
+
+Day 343:
+Leaving	 -> 2
+Breakfast	 -> 1
+Sleeping -> 1
+Grooming	 -> 5
+Showering	 -> 1
+Spare_Time/TV -> 6
+Toileting	 -> 2
+
+Day 344:
+Leaving	 -> 2
+Breakfast	 -> 1
+Sleeping -> 1
+Grooming	 -> 4
+Showering	 -> 1
+Spare_Time/TV -> 3
+Toileting	 -> 1
+
+Day 345:
+Breakfast	 -> 1
+Sleeping -> 1
+Grooming	 -> 3
+Showering	 -> 1
+Spare_Time/TV -> 3
+Toileting	 -> 2
+Lunch -> 1
+

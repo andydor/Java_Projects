@@ -1,0 +1,1 @@
+The number of distinct days is 14

@@ -1,0 +1,6 @@
+Order ID: 1
+Order Date: Sun May 10 11:44:52 EEST 2020
+Table: 1
+
+Item 1: limonada Price: 9.0
+Total: 9.0
